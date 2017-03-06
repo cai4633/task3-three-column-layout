@@ -43,6 +43,7 @@ main {
 aside {
     /*float: left;*/
     flex: none;
+    background:#fff;
     width: 200px;
     border: 1px solid #999;
     box-sizing: border-box;
@@ -80,6 +81,7 @@ h2 {
 
 .center {
     /*float: left;*/
+     background:#fff;
     border: 1px solid #999;
     margin: 0px 20px;
     flex: auto;
@@ -88,6 +90,7 @@ h2 {
 
 .right {
     /*float: right;*/
+     background:#fff;
     flex: none;
     width: 120px;
     border: 1px solid #999;
